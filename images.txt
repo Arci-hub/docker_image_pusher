@@ -1,1 +1,2 @@
-docker-compose
+postgres:13
+nginx
