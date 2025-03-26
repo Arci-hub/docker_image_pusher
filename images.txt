@@ -1,1 +1,1 @@
-frappe/frappe-nginx:version-14
+frappe-nginx:version-14
