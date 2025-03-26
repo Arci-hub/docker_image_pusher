@@ -1,2 +1,1 @@
-postgres:13
-nginx:1.25.3
+frappe/frappe-nginx:version-14
